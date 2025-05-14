@@ -1,4 +1,5 @@
 # Spam Email Detection System
+#For using the Model contact me at muneerahmed.dev@gmail.com  i will provide the trained model file thank you
 
 This project is a machine learning-based system to detect whether an email is spam or not spam, using natural language processing (NLP) and an artificial neural network (ANN) classifier.
 
